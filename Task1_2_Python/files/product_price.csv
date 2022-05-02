@@ -1,0 +1,6 @@
+product_id,trial,price,duration
+tenwords_1w_7.99_7free,True,0,7
+tenwords_1w_9.99_offer,True,0.5,7
+tenwords_1w_7.99_7free,False,7.99,7
+tenwords_1w_9.99_offer,False,9.99,7
+tenwords_lifetime_limited_49.99,False,49.99,0
